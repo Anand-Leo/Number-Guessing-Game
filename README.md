@@ -23,7 +23,16 @@ A stylish and interactive number guessing game built with Java Swing. Try to gue
 - Java 8 or higher
 - Any Java IDE (IntelliJ, Eclipse, NetBeans) or terminal/command line
 
-### Steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/modern-guessing-game.git
+### 🖥️ Run via IDE (Recommended)
+
+1. Open your Java IDE.
+2. Clone or download the repository:
+https://github.com/Anand-Leo/Number-Guessing-Game.git
+
+yaml
+Copy
+Edit
+3. Open the project folder.
+4. Run the file `ModernGuessingGame.java`.
+
+---
