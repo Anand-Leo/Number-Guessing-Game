@@ -28,11 +28,7 @@ A stylish and interactive number guessing game built with Java Swing. Try to gue
 1. Open your Java IDE.
 2. Clone or download the repository:
 https://github.com/Anand-Leo/Number-Guessing-Game.git
-
-yaml
-Copy
-Edit
-3. Open the project folder.
-4. Run the file `ModernGuessingGame.java`.
+4. Open the project folder.
+5. Run the file `ModernGuessingGame.java`.
 
 ---
