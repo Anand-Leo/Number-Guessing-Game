@@ -32,3 +32,14 @@ https://github.com/Anand-Leo/Number-Guessing-Game.git
 5. Run the file `ModernGuessingGame.java`.
 
 ---
+
+## 👨‍💻 Author
+
+Anand Pal  
+B.Tech – Information Technology  
+- GitHub: https://github.com/Anand-Leo  
+- LinkedIn: https://www.linkedin.com/in/anand-pal-61963a258
+  
+ ---
+
+  📢 Feel free to fork ⭐, open issues, or contribute to the project!
